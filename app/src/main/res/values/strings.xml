@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BankAppNew</string>
+    <string name="worldskills_bank">WorldSkills Bank</string>
+    <string name="todo">TODO</string>
+    <string name="courses">Курсы валют</string>
+    <string name="atms">Отделения и банкоматы</string>
+    <string name="usd">USD</string>
+    <string name="eur">EUR</string>
 </resources>
