@@ -12,4 +12,7 @@
     <color name="gradient_part_blue">#9DCCFF</color>
     <color name="ws_bank">#9B59B6</color>
     <color name="blue_rect">#1C42B0</color>
+    <color name="menu">#212121</color>
+
+
 </resources>

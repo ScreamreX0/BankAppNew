@@ -13,14 +13,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BankAppNew">
         <activity
-            android:name=".MenuActivity"
+            android:name=".menu.activities.MenuActivity"
             android:exported="false" />
         <activity
             android:name=".signin.acitvities.CoursesActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".signin.acitvities.MainActivity"/>
         <activity
             android:name=".signin.acitvities.AtmActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".signin.acitvities.MainActivity"/>
         <activity
             android:name=".signin.acitvities.MainActivity"
             android:exported="true">

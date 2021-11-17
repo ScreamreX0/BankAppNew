@@ -6,4 +6,11 @@
     <string name="atms">Отделения и банкоматы</string>
     <string name="usd">USD</string>
     <string name="eur">EUR</string>
+    <string name="auth">АВТОРИЗАЦИЯ</string>
+    <string name="login">Логин</string>
+    <string name="pass">Пароль</string>
+    <string name="dialogs">Диалоги</string>
+    <string name="main_window">Главный</string>
+    <string name="paymnets">Платежи</string>
+    <string name="history">История</string>
 </resources>

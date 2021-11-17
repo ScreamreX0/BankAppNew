@@ -1,15 +1,13 @@
 package com.example.bankappnew._pojo;
 
-import java.time.LocalTime;
-import java.time.format.DateTimeFormatter;
+import android.net.Uri;
+
 import java.util.Date;
-import java.util.Locale;
 
 public class items {
     public static class Atm {
         String address;
         String type;
-        boolean isWork;
         Date startTime;
         Date endTime;
 
@@ -28,9 +26,14 @@ public class items {
             return type;
         }
 
-        public boolean isWork() {
+        public String isWork() {
             Date currentTime = new Date();
-            return currentTime.after(startTime) && currentTime.before(endTime);
+            if (currentTime.after(startTime) && currentTime.before(endTime)) {
+                return "Работает";
+            } else {
+                return "Не работает";
+            }
+
         }
 
         public Date getStartTime() {
