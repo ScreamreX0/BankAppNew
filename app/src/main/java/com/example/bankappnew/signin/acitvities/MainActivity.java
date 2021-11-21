@@ -22,7 +22,9 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
+
         startActivity(new Intent(this, MenuActivity.class));
+
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
@@ -63,8 +65,8 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(DialogInterface dialogInterface, int i) {
 
-                    String login = ((EditText)cl.findViewById(R.id.d_enter_login)).getText().toString();
-                    String password = ((EditText)cl.findViewById(R.id.d_enter_password)).getText().toString();
+                    String login = ((EditText) cl.findViewById(R.id.d_enter_login)).getText().toString();
+                    String password = ((EditText) cl.findViewById(R.id.d_enter_password)).getText().toString();
 
                     if (login.equals(loginPassword.split(":")[0]) &&
                             password.equals(loginPassword.split(":")[1])) {
