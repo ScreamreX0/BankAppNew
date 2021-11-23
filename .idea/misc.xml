@@ -12,10 +12,18 @@
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/activity_courses.xml" value="0.3786231884057971" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/activity_menu.xml" value="0.33" />
+        <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/cards_fragment.xml" value="0.34782608695652173" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/d_enter.xml" value="0.33" />
+        <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/f_cards.xml" value="0.21614583333333334" />
+        <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/f_profile.xml" value="0.3432971014492754" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_atm.xml" value="0.5" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_atm_header.xml" value="0.3786231884057971" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_courses.xml" value="0.67" />
+        <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_menu_accounts.xml" value="0.5" />
+        <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_menu_cards.xml" value="0.5" />
+        <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_menu_credits.xml" value="0.34782608695652173" />
+        <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_menu_header.xml" value="0.34782608695652173" />
+        <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_profile_setting.xml" value="0.33" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/menu/menu.xml" value="0.3880208333333333" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4041666666666667" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4041666666666667" />

@@ -13,4 +13,8 @@
     <string name="main_window">Главный</string>
     <string name="paymnets">Платежи</string>
     <string name="history">История</string>
+    <string name="debt_card">Дебетовая карта</string>
+    <string name="cur_account">Текущий счет</string>
+    <string name="cash_credit">Кредит наличными</string>
+    <string name="right_arrow"><![CDATA[>]]></string>
 </resources>
