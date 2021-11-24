@@ -181,4 +181,17 @@ public class items {
             return 3;
         }
     }
+
+    public static class Setting {
+        String header;
+
+        public Setting(String header) {
+            this.header = header;
+        }
+
+        public String getHeader() {
+            return header;
+        }
+    }
+
 }

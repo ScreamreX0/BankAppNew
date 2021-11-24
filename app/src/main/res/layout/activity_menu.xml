@@ -7,6 +7,7 @@
     tools:context=".menu.activities.MenuActivity">
 
     <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/a_menu_app_bar"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:backgroundTint="@color/menu">
@@ -14,6 +15,15 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/a_menu_tool_bar"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+            </androidx.appcompat.widget.Toolbar>
 
             <TextView
                 android:id="@+id/a_menu_user_name"

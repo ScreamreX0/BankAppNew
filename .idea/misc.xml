@@ -24,7 +24,9 @@
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_menu_credits.xml" value="0.34782608695652173" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_menu_header.xml" value="0.34782608695652173" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/layout/item_profile_setting.xml" value="0.33" />
+        <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/menu/bottom_menu.xml" value="0.20572916666666666" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/menu/menu.xml" value="0.3880208333333333" />
+        <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/menu/top_menu.xml" value="0.5" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4041666666666667" />
         <entry key="..\:/Android/projects/BankAppNew/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4041666666666667" />
       </map>
